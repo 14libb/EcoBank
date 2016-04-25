@@ -550,6 +550,13 @@
 					border: 3px solid;
 					border-color: white;
 				}
+        .wrapper.style6 {
+            background: #93C47D;
+        }
+        .wrapper.style7 {
+            background-image: url("images/bg_winter.png");
+            background-size: cover;
+        }
 
 /* Header */
 
@@ -663,7 +670,6 @@
 			font-size: 1em;
 			margin-left: -0.5em;
 		}
-
 /* Banner */
 
 	#banner {
